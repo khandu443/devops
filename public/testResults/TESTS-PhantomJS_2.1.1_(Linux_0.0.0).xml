@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2016-04-28T10:29:44" id="0" hostname="SCS-I38" tests="2" errors="0" failures="1" time="0.429">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+  </properties>
+  <testcase name="Sample App Testing main controller Should display hello world " time="0.421" classname="PhantomJS_2_1_1_(Linux_0_0_0).Sample App"/>
+  <testcase name="Sample App Testing main controller Should display hello world " time="0.008" classname="PhantomJS_2_1_1_(Linux_0_0_0).Sample App">
+    <failure type="">Expected 'Hello World' not to be 'Hello World'.
+/home/kumari_jyoti/iii/triple-I/public/tests/main.ctrl.test.js:23:45
+</failure>
+  </testcase>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
