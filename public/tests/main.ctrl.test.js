@@ -17,12 +17,12 @@ describe('Sample App', function () {
 
     });
     
-     describe('Testing main controller', function () {
+    /* describe('Testing main controller', function () {
         it('Should display hello world ', function () {
              
              expect($scope.message).not.toBe("Hello World");   
         });
 
     });
-      
+      */
 });
